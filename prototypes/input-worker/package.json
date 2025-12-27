@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-input-prototype",
+  "version": "0.1.0",
+  "description": "Prototype for improved input handling in Claude Code CLI",
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.mjs",
+    "test": "node stress-test.mjs"
+  },
+  "keywords": ["claude-code", "input", "terminal", "tty"],
+  "license": "MIT"
+}
